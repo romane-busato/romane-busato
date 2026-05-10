@@ -21,10 +21,10 @@ terrain et impact.
 Humanitaire · Environnement · Collectivités territoriales
 
 ## 🌱 En ce moment
-- 🇸🇩 Projet : cartographie de l'impact de la guerre civile soudanaise 
-  sur la sécurité alimentaire (QGIS, HDX, ACLED) 
-- 📚 Projet : accessibilité aux bibliothèques publiques en Haute-Garonne 
-  (QGIS, opendata)
+- 🇸🇩 Projet : [cartographie de l'impact de la guerre civile soudanaise 
+  sur la sécurité alimentaire (QGIS, HDX, ACLED)](https://github.com/romane-busato/qgis-projets/tree/main/securite-alimentaire-soudan)
+- 📚 Projet : [accessibilité aux bibliothèques publiques en Haute-Garonne 
+  (QGIS, opendata)](https://github.com/romane-busato/qgis-projets/tree/main/bibliotheques-par-commune)
 - 🤝 Contributions HOT OpenStreetMap
 
 ## 📫 Me contacter
