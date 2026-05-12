@@ -25,7 +25,7 @@ Humanitaire · Environnement · Collectivités territoriales
   sur la sécurité alimentaire (QGIS, HDX, ACLED)](https://github.com/romane-busato/qgis-projets/tree/main/securite-alimentaire-soudan)
 - 📚 Projet : [accessibilité aux bibliothèques publiques en Haute-Garonne 
   (QGIS, opendata)](https://github.com/romane-busato/qgis-projets/tree/main/bibliotheques-par-commune)
-- 🤝 Contributions HOT OpenStreetMap
+- 🤝 Contributions [HOT OpenStreetMap](https://tasks.hotosm.org/users/romane-busato)
 
 ## 📫 Me contacter
 romane.busato.82@gmail.com
