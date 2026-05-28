@@ -13,6 +13,7 @@ terrain et impact.
 
 ## 🛠️ Compétences techniques
 - **SIG** : QGIS, données raster et vecteur
+- **Analyse de réseau** : isochrones ORS Tools, OpenRouteService
 - **Données** : Python, SQL
 - **Sources** : IGN BD TOPO, HDX, OpenStreetMap / HOT OSM, ACLED
 - **Langues** : Français, Anglais, Espagnol
