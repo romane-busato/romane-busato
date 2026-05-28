@@ -27,6 +27,7 @@ Humanitaire · Environnement · Collectivités territoriales
 - 📚 Projet : [accessibilité aux bibliothèques publiques en Haute-Garonne 
   (QGIS, opendata)](https://github.com/romane-busato/qgis-projets/tree/main/bibliotheques-par-commune)
 - 🤝 Contributions [HOT OpenStreetMap](https://tasks.hotosm.org/users/romane-busato)
+- Formation autonome PostgreSQL / PostGIS
 
 ## 📫 Me contacter
 romane.busato.82@gmail.com
