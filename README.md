@@ -12,7 +12,7 @@ terrain et impact.
 - Gestion et contrôle qualité de bases de données géographiques
 
 ## 🛠️ Compétences techniques
-- **SIG** : QGIS, données raster et vecteur
+- **SIG** : QGIS, données raster et vecteur, PostgreSQL / PostGIS
 - **Analyse de réseau** : isochrones ORS Tools, OpenRouteService
 - **Données** : Python, SQL
 - **Sources** : IGN BD TOPO, HDX, OpenStreetMap / HOT OSM, ACLED
