@@ -1,9 +1,9 @@
 # Romane Busato — Cartographe & Ingénieure géospatiale 🗺️
 
 Ingénieure ISAE-SUPAERO en traitement de données géospatiales, je me spécialise 
-dans la cartographie appliquée aux enjeux environnementaux et humanitaires. Je 
-combine une expertise en données satellitaires avec une pratique SIG orientée 
-terrain et impact.
+dans la cartographie appliquée à l'aménagement du territoire et aux enjeux 
+environnementaux. Je combine une expertise en données satellitaires avec une 
+pratique SIG orientée terrain et impact.
 
 ## Ce que je fais
 - Cartographie thématique et mise en page
